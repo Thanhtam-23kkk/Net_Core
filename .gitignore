@@ -1,0 +1,14 @@
+# Build results
+bin/
+obj/
+
+# User/IDE files
+*.user
+*.suo
+*.vs
+*.vscode
+
+# NuGet
+*.nupkg
+project.assets.json
+*.cache
